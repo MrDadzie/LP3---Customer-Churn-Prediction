@@ -31,12 +31,12 @@ The summary of the models is shown below:
 
 | Model      | Accuracy      | Precision|  Recall|F1_score| 
 |--------------|-------------|:-------------:|------:|-------------:|
-| AR model      |   |       |
-|ARIMA model |      |    |        |     
-|Linear Model|  |   |      |     
-|Decision Tree|  |     |     |   
-|XgBoost|  |    |    |  
-|Random Forest Model|    |   |    | 
+|       |   |       |
+| |      |    |        |     
+||  |   |      |     
+||  |     |     |   
+||  |    |    |  
+||    |   |    | 
 
   
 
