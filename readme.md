@@ -24,9 +24,9 @@ During this stage, further insights were drawn by asking relevant questions and 
   <br>
 
 *  ### Exporting model<br>
-After hyperparameter tuning, the best model was selected. Selection meteric employed is the F1 score.
+After hyperparameter tuning, the best model was selected. Selection metric employed is the F1 score.
 
-*	Final Classifier Model Summary
+*	Final Classifier Model Summary<br>
 The summary of the models is shown below:
 
 | Model      | Accuracy      | Precision|  Recall|F1_score| 
