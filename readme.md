@@ -4,7 +4,7 @@
 ## Summary
 | Code      | Name        | Published Article |  
 |-----------|-------------|:-------------:|
-| LP3      | Customer Churn Prediction  |  [](/) | 
+| LP3      | Customer Churn Prediction  |https://www.linkedin.com/pulse/telco-customer-churn-prediction-ml-classification-problem-dadzie  [](/) | 
 --------------------------------------------------
 
 ## Project Description
@@ -26,17 +26,16 @@ During this stage, further insights were drawn by asking relevant questions and 
 *  Exporting model<br>
 After hyperparameter tuning, the best model was selected. Selection meteric employed is the F1 score.
 
-*	Classifier Model Summary
+*	Final Classifier Model Summary
 The summary of the models is shown below:
 
 | Model      | Accuracy      | Precision|  Recall|F1_score| 
 |--------------|-------------|:-------------:|------:|-------------:|
-|       |   |       |
-| |      |    |        |     
-||  |   |      |     
-||  |     |     |   
-||  |    |    |  
-||    |   |    | 
+|   Logistic Regression    | 0.75  |    0.53   |0.80| 0.63
+| Gradient Boosting Classifier|   0.74   |   0.51|     0..76   |    0.61 
+|Decison Tree Classifier|  0.71|   0.48|    0.81  |  0.61   
+|Random Forest Classifier|  0.69|    0.46 |  0.86   |   0.59
+ 
 
   
 
