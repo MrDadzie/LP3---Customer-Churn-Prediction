@@ -15,15 +15,15 @@ The project is divided in four main stages:
   <br>The dataset for analysis was subdivided into two broad columns to aid comprehension; Customer Demographics and Telco Services. From the customer demographics, information on client specifics were provided; customerId , age, marital status, dependents among others. The other half of the dataset was on the services provided by the telcom corporation. This preliminary understanding served as a guide for our EDA.<br>
   <br>
   
-*	Initial Exploratory Data Analysis.<br>
+* ###	Initial Exploratory Data Analysis.<br>
 During this stage, further insights were drawn by asking relevant questions and visualizing them using plotly package in python. 
 <br>
 
-* ML Modelling and Selection<br>
+* ### ML Modelling and Selection<br>
   Here, the dataset was processed. Feature Selection analysis were done, missing values were imputed, categorical variables were encoded and numerical variables were also scaled using the standard scaler. Four(4) models were built and their performance report accessed to find the best models.
   <br>
 
-*  Exporting model<br>
+*  ### Exporting model<br>
 After hyperparameter tuning, the best model was selected. Selection meteric employed is the F1 score.
 
 *	Final Classifier Model Summary
